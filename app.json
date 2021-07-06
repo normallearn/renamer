@@ -10,10 +10,10 @@
         "renamer"
     ],
 
-    "repository": "https://github.com/Ns-AnoNymouS/Renamer",
+    "repository": "https://t.me/bhargavbots",
     "stack": "heroku-20",
-    "website": "https://t.me/Ns_bot_updates",
-    "success_url": "https://t.me/RenamerNs_bot",
+    "website": "https://t.me/bhargavbots",
+    "success_url": "https://t.me/bhargavbots",
 
     "env": {
         "API_HASH": {
